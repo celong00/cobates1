@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 commit 3
-=======
 ADUHAI
->>>>>>> asiap2
